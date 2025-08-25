@@ -1,27 +1,13 @@
-# Rishabh Assignment
+# React Assignment – InputField & DataTable Components
 
-React + TypeScript + Vite + Tailwind + Storybook.
+This is my Frontend Assignment project built with **React, TypeScript, Vite, TailwindCSS, and Storybook**.  
+It contains reusable components and demonstrates best practices for modern frontend development.
 
-## Install
-```bash
-npm install
-```
+---
 
-## Run app
-```bash
-npm run dev
-```
+## 🚀 Setup Instructions
 
-## Storybook
-```bash
-npm run storybook
-```
-
-## Build
-```bash
-npm run build
-```
-
-### Components
-- **InputField** — label, helper/error text, variants (filled/outlined/ghost), sizes (sm/md/lg), clear button, optional password toggle.
-- **DataTable** — sortable columns, row selection, empty + loading state, custom cell renderer.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rishabh6508/rishabh-assignment.git
+   cd rishabh-assignment
